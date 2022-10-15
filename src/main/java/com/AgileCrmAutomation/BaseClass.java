@@ -117,7 +117,9 @@ public class BaseClass {
          option.setExperimentalOption("excludeSwitches",Arrays.asList("disable-popup-blocking"));
          return option;
          }
-
+   public void stutas()
+   {
+   }
 }
 
          
